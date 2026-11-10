@@ -13,8 +13,8 @@
 class SeeedZephyr < Formula
   desc "CLI for Seeed Studio XIAO boards with Zephyr RTOS"
   homepage "https://github.com/limengdu/Seeed-Zephyr-Project"
-  url "https://files.pythonhosted.org/packages/ef/19/25e421bcfe931fca94d7e262a459cde1492b01b7f4781476d4d97069c9c1/seeed_zephyr-0.4.0-py3-none-any.whl", using: :nounzip
-  sha256 "0863ea897b2f53b1cfed7bb4ba305d9301f8ebc5e351ca1954c57bd1313b6af5"
+  url "https://files.pythonhosted.org/packages/19/38/ad0d2bd762c7333288d1d59caf35d541b72c33ce41c992bec1405343642b/seeed_zephyr-0.5.0-py3-none-any.whl", using: :nounzip
+  sha256 "b7a6e2304627265982378b9553607028aeef8b8b4f977f01979430be7821c060"
   license "Apache-2.0"
 
   depends_on "python@3.12"
